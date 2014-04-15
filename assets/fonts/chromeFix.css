@@ -1,0 +1,37 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+	  font-family: 'Open Sans';
+	  font-style: normal;
+	  font-weight: 300;
+	  src: local('Open Sans Light'), local('OpenSans-Light'),
+	  url(http://themes.googleusercontent.com/licensed/font?kit=DXI1ORHCpsQm3Vp6mXoaTVlIn5tFQcqMuf-jhyJP0ps#OpenSans) format('svg');
+	}
+	@font-face {
+	  font-family: 'Open Sans';
+	  font-style: normal;
+	  font-weight: 400;
+	  src: local('Open Sans'), local('OpenSans'),
+	  url(http://themes.googleusercontent.com/licensed/font?kit=cJZKeOuBrn4kERxqtaUH3Zbd9NUM7myrQQz30yPaGQ4#OpenSans) format('svg');
+	}
+	/* @font-face { */
+	/*   font-family: 'Open Sans'; */
+	/*   font-style: normal; */
+	/*   font-weight: 600; */
+	/*   src: local('Open Sans Semibold'), local('OpenSans-Semibold'), */
+	/*   url(http://themes.googleusercontent.com/licensed/font?kit=MTP_ySUJH_bn48VBG8sNSllIn5tFQcqMuf-jhyJP0ps#OpenSans) format('svg'); */
+	/* } */
+	/* @font-face { */
+	/*   font-family: 'Open Sans'; */
+	/*   font-style: normal; */
+	/*   font-weight: 700; */
+	/*   src: local('Open Sans Bold'), local('OpenSans-Bold'), */
+	/*   url(http://themes.googleusercontent.com/licensed/font?kit=k3k702ZOKiLJc3WVjuplzFlIn5tFQcqMuf-jhyJP0ps#OpenSans) format('svg'); */
+	/* } */
+	/* @font-face { */
+	/*   font-family: 'Open Sans'; */
+	/*   font-style: italic; */
+	/*   font-weight: 400; */
+	/*   src: local('Open Sans Italic'), local('OpenSans-Italic'), */
+	/*   url(http://themes.googleusercontent.com/licensed/font?kit=xjAJXh38I15wypJXxuGMBnNsigHlcrQGNV8nkUSFQfc#OpenSans) format('svg'); */
+	/* } */
+}
